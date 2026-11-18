@@ -48,4 +48,4 @@ Documento de la actividad con capturas, respuestas y bitácora: [ver PDF](U4ACT0
 ## Autor
 
 Omar Manuel Amador Espinoza
-Actividad U4ACT03 - Infraestructura de redes de datos
+Actividad U4ACT03 - Programación de Redes
